@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+	<img width="400" src="https://i.imgur.com/Xj6wjGN.png" alt="Awesome">
 	<br>
 	<br>
 </h1>
@@ -7,7 +7,7 @@
 <!--
 <p align="center">
 	<b>✨ Meet us @ <a href="https://barre.fitness">Très Stubio Barre</a> Montreal downtown! ✨</b>
-	<b>Easy to find us <a href="https://www.producthunt.com/posts/awesome-weekly">4371 St-Denis, QC , H2J2L2</a></b>
+	<b>Easy to find us <a href="https://goo.gl/maps/9mjdvndLRpx">4371 St-Denis, QC , H2J2L2</a></b>
 </p>
 
 <br>
