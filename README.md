@@ -30,6 +30,13 @@
 </p>
 <br>
 # TSB-WEB
-Website @ Très Studio Barre
 
-[Native builder only for the Webpage](https://www.github.com/BunkersCo/TSWBuilder)
+Website Projects @ Très Studio Barre
+
+- [Front-end Website project link](https://www.github.com/BunkersCo/TSB-WEB)
+- [Native builder only for the Webpage](https://www.github.com/BunkersCo/TSWBuilder)
+- [Front-end Website UX Journey](https://www.github.com/BunkersCo/TSB-UX-Journey)
+- [Backend Studio Only](https://barre.fitness)
+- [Front - Barre Mommy @ Kara Egelton](https://barremommy.com)
+- [Barre Mommy Backend](https://barremommy.com)
+- [VR Projects](https://barre.fitness)
